@@ -5,10 +5,10 @@ The Travel Booking Project is a dynamic web application that allows users to bro
 
 ## Features ✨
 
-**View Travel Packages**: Users can view a list of travel packages, including destinations, prices, and brief descriptions.
-**Detailed Package View**: Each package includes a detailed view, showing images, itineraries, and other relevant information.
-**Book a Trip**: Users can book a trip by providing personal and booking information.
-**User friendly creative UI s**
+-**View Travel Packages**: Users can view a list of travel packages, including destinations, prices, and brief descriptions.
+-**Detailed Package View**: Each package includes a detailed view, showing images, itineraries, and other relevant information.
+-**Book a Trip**: Users can book a trip by providing personal and booking information.
+-**User friendly creative UI s**
 
 ## Technologies Used 🛠️
 
